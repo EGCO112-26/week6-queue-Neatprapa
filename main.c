@@ -23,7 +23,7 @@ int main(int argc , char **argv) {
             printf("dequeing %d\n",value);
           }
           else{
-            printf("empty queue\n");
+            printf("Empty queue\n");
           }
         }
         else {
